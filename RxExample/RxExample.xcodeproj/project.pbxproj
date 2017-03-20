@@ -125,7 +125,6 @@
 		C8C46DAA1B47F7110020D71E /* WikipediaSearchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C46DA51B47F7110020D71E /* WikipediaSearchCell.swift */; };
 		C8C46DAB1B47F7110020D71E /* WikipediaSearchCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C8C46DA61B47F7110020D71E /* WikipediaSearchCell.xib */; };
 		C8C46DAC1B47F7110020D71E /* WikipediaSearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C46DA71B47F7110020D71E /* WikipediaSearchViewController.swift */; };
-		C8D132151C42B54B00B59FFF /* UIImagePickerController+RxCreate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D132141C42B54B00B59FFF /* UIImagePickerController+RxCreate.swift */; };
 		C8DF92CD1B0B2F84009BCF9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8DF92C81B0B2F84009BCF9A /* AppDelegate.swift */; };
 		C8DF92DF1B0B328B009BCF9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8DF92DE1B0B328B009BCF9A /* AppDelegate.swift */; };
 		C8DF92E31B0B32DA009BCF9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C8DF92E01B0B32DA009BCF9A /* LaunchScreen.xib */; };
@@ -410,7 +409,6 @@
 		C8C46DA51B47F7110020D71E /* WikipediaSearchCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WikipediaSearchCell.swift; sourceTree = "<group>"; };
 		C8C46DA61B47F7110020D71E /* WikipediaSearchCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WikipediaSearchCell.xib; sourceTree = "<group>"; };
 		C8C46DA71B47F7110020D71E /* WikipediaSearchViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WikipediaSearchViewController.swift; sourceTree = "<group>"; };
-		C8D132141C42B54B00B59FFF /* UIImagePickerController+RxCreate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImagePickerController+RxCreate.swift"; sourceTree = "<group>"; };
 		C8DF92C81B0B2F84009BCF9A /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C8DF92DE1B0B328B009BCF9A /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C8DF92E01B0B32DA009BCF9A /* LaunchScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
@@ -490,7 +488,6 @@
 			isa = PBXGroup;
 			children = (
 				8479BC701C3BCB9800FB8B54 /* ImagePickerController.swift */,
-				C8D132141C42B54B00B59FFF /* UIImagePickerController+RxCreate.swift */,
 			);
 			path = ImagePicker;
 			sourceTree = "<group>";
@@ -1182,7 +1179,6 @@
 				C86E2F471AE5A0CA00C31024 /* WikipediaSearchResult.swift in Sources */,
 				C8984CD11C36BC3E001E4272 /* NumberCell.swift in Sources */,
 				C8A2A2C81B4049E300F11F09 /* PseudoRandomGenerator.swift in Sources */,
-				C8D132151C42B54B00B59FFF /* UIImagePickerController+RxCreate.swift in Sources */,
 				C8477FF71D29DE8C0074454A /* Differentiator.swift in Sources */,
 				C8984CD51C36BC3E001E4272 /* PartialUpdatesViewController.swift in Sources */,
 				8479BC721C3BDAD400FB8B54 /* ImagePickerController.swift in Sources */,
